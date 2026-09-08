@@ -43,7 +43,7 @@ float birdMove = 0.0f;
 float doorOpen = 0.0f;
 float runOut = 0.0f;
 float windowOpen = 0.0f;
-float ambMove = 1050.0f;
+float ambMove = 1050.0f; //for ambulance move
 
 #include "core/shapes.h"
 #include "core/algorithms.h"
@@ -568,7 +568,11 @@ int main(int argc, char **argv)
 {
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
+
+    int screenW = glutGet(GLUT_SCREEN_WIDTH);
+    int screenH = glutGet(GLUT_SCREEN_HEIGHT);
     glutInitWindowSize(1000, 650);
+    glutInitWindowPosition((screenW - 1000) / 2, (screenH - 650) / 2);
     glutCreateWindow("2D City Disaster Simulation");
 
     init();
