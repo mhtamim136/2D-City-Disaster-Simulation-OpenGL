@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="openglportable" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/openglportable" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../freeglut/include" />
+				</Compiler>
+				<Linker>
+					<Add library="freeglut" />
+					<Add library="opengl32" />
+					<Add library="glu32" />
+					<Add directory="../freeglut/lib/x64" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/openglportable" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="city/buildings.h" />
+		<Unit filename="city/environment.h" />
+		<Unit filename="city/people.h" />
+		<Unit filename="city/props.h" />
+		<Unit filename="city/vehicles.h" />
+		<Unit filename="core/algorithms.h" />
+		<Unit filename="core/shapes.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="scenes/accident.h" />
+		<Unit filename="scenes/earthquake.h" />
+		<Unit filename="scenes/fire.h" />
+		<Unit filename="scenes/flood.h" />
+		<Unit filename="scenes/storm.h" />
+		<Unit filename="ui/hud.h" />
+		<Unit filename="ui/ending.h" />
+		<Unit filename="ui/evening.h" />
+		<Unit filename="ui/intro.h" />
+		<Unit filename="ui/night.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

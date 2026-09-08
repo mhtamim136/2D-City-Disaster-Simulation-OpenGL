@@ -1,0 +1,430 @@
+# depslib dependency file v1.0
+1761037065 source:c:\src\src\openglportable\openglportable\main.cpp
+	<GL/glut.h>
+
+1761036817 c:\src\src\openglportable\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761036817 c:\src\src\openglportable\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1761531191 source:c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+
+1761232548 c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761232548 c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1781063208 source:c:\users\student\downloads\openglportable-64bit\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+
+1781058678 c:\users\student\downloads\openglportable-64bit\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058678 c:\users\student\downloads\openglportable-64bit\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1781374875 source:c:\users\murad\onedrive - american international university-bangladesh\aiub files\graphics design\openglportable-64bit(tamim)\openglportable-64bit(tamim)\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+
+1781058680 c:\users\murad\onedrive - american international university-bangladesh\aiub files\graphics design\openglportable-64bit(tamim)\openglportable-64bit(tamim)\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 c:\users\murad\onedrive - american international university-bangladesh\aiub files\graphics design\openglportable-64bit(tamim)\openglportable-64bit(tamim)\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1781374875 source:c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\openglportable-64bit(tamim)\openglportable-64bit(tamim)\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+
+1781058680 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\openglportable-64bit(tamim)\openglportable-64bit(tamim)\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\openglportable-64bit(tamim)\openglportable-64bit(tamim)\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1787084106 source:c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\project\fahim\openglportable\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+
+1781058680 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\project\fahim\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\project\fahim\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1787433677 source:c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\project\city_emergency_response\openglportable\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+
+1781058680 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\project\city_emergency_response\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\project\city_emergency_response\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1787677551 source:f:\claude chat\city_emergency_response\openglportable\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+
+1781058680 f:\claude chat\city_emergency_response\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 f:\claude chat\city_emergency_response\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1787782493 source:f:\claude chat\city_emergency_response - copy\openglportable\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+
+1781058680 f:\claude chat\city_emergency_response - copy\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 f:\claude chat\city_emergency_response - copy\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1788094645 source:f:\claude chat\city_emergency_response - main\openglportable\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	"core/shapes.h"
+	"core/algorithms.h"
+	"city/environment.h"
+	"city/buildings.h"
+	"city/props.h"
+	"city/vehicles.h"
+	"city/people.h"
+	"scenes/earthquake.h"
+	"scenes/fire.h"
+	"scenes/flood.h"
+	"scenes/storm.h"
+	"ui/hud.h"
+	"ui/night.h"
+	"ui/intro.h"
+	"ui/ending.h"
+
+1781058680 f:\claude chat\city_emergency_response - main\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 f:\claude chat\city_emergency_response - main\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\core\shapes.h
+
+1788093448 f:\claude chat\city_emergency_response - main\openglportable\core\algorithms.h
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\city\environment.h
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\city\buildings.h
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\city\props.h
+
+1788093478 f:\claude chat\city_emergency_response - main\openglportable\city\vehicles.h
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\city\people.h
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\scenes\earthquake.h
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\scenes\fire.h
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\scenes\flood.h
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\scenes\storm.h
+
+1788093617 f:\claude chat\city_emergency_response - main\openglportable\ui\hud.h
+
+1788094815 f:\claude chat\city_emergency_response - main\openglportable\ui\night.h
+
+1788093449 f:\claude chat\city_emergency_response - main\openglportable\ui\intro.h
+
+1788094815 f:\claude chat\city_emergency_response - main\openglportable\ui\ending.h
+
+1788779975 source:f:\claude chat\city_emergency_response - main - secound try\openglportable\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	"core/shapes.h"
+	"core/algorithms.h"
+	"city/environment.h"
+	"city/buildings.h"
+	"city/props.h"
+	"city/vehicles.h"
+	"city/people.h"
+	"scenes/earthquake.h"
+	"scenes/fire.h"
+	"scenes/flood.h"
+	"scenes/storm.h"
+	"ui/hud.h"
+	"ui/night.h"
+	"ui/intro.h"
+	"ui/ending.h"
+
+1781058680 f:\claude chat\city_emergency_response - main - secound try\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 f:\claude chat\city_emergency_response - main - secound try\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1788779722 f:\claude chat\city_emergency_response - main - secound try\openglportable\core\shapes.h
+
+1788779732 f:\claude chat\city_emergency_response - main - secound try\openglportable\core\algorithms.h
+
+1788779738 f:\claude chat\city_emergency_response - main - secound try\openglportable\city\environment.h
+
+1788779774 f:\claude chat\city_emergency_response - main - secound try\openglportable\city\buildings.h
+
+1788779798 f:\claude chat\city_emergency_response - main - secound try\openglportable\city\props.h
+
+1788779812 f:\claude chat\city_emergency_response - main - secound try\openglportable\city\vehicles.h
+
+1788779810 f:\claude chat\city_emergency_response - main - secound try\openglportable\city\people.h
+
+1788779832 f:\claude chat\city_emergency_response - main - secound try\openglportable\scenes\earthquake.h
+
+1788779855 f:\claude chat\city_emergency_response - main - secound try\openglportable\scenes\fire.h
+
+1788779876 f:\claude chat\city_emergency_response - main - secound try\openglportable\scenes\flood.h
+
+1788779888 f:\claude chat\city_emergency_response - main - secound try\openglportable\scenes\storm.h
+
+1788779909 f:\claude chat\city_emergency_response - main - secound try\openglportable\ui\hud.h
+
+1788779922 f:\claude chat\city_emergency_response - main - secound try\openglportable\ui\night.h
+
+1788779924 f:\claude chat\city_emergency_response - main - secound try\openglportable\ui\intro.h
+
+1788779939 f:\claude chat\city_emergency_response - main - secound try\openglportable\ui\ending.h
+
+1788784693 source:c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	"core/shapes.h"
+	"core/algorithms.h"
+	"city/environment.h"
+	"city/buildings.h"
+	"city/props.h"
+	"city/vehicles.h"
+	"city/people.h"
+	"scenes/earthquake.h"
+	"scenes/fire.h"
+	"scenes/flood.h"
+	"scenes/storm.h"
+	"scenes/accident.h"
+	"ui/hud.h"
+	"ui/night.h"
+	"ui/evening.h"
+	"ui/intro.h"
+	"ui/ending.h"
+
+1781058680 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1788779722 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\core\shapes.h
+
+1788784361 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\core\algorithms.h
+
+1788784390 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\city\environment.h
+
+1788784588 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\city\buildings.h
+
+1788779798 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\city\props.h
+
+1788786170 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\city\vehicles.h
+
+1788779810 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\city\people.h
+
+1788779832 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\scenes\earthquake.h
+
+1788779855 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\scenes\fire.h
+
+1788784393 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\scenes\flood.h
+
+1788779888 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\scenes\storm.h
+
+1788786172 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\scenes\accident.h
+
+1788784719 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\ui\hud.h
+
+1788779922 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\ui\night.h
+
+1788784581 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\ui\evening.h
+
+1788784740 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\ui\intro.h
+
+1788784751 c:\users\mhtamim136\onedrive - american international university-bangladesh\aiub files\computer graphics\city disaster simulation\openglportable\ui\ending.h
+
+1788787180 source:f:\city disaster simulation\openglportable\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<cstdlib>
+	"core/shapes.h"
+	"core/algorithms.h"
+	"city/environment.h"
+	"city/buildings.h"
+	"city/props.h"
+	"city/vehicles.h"
+	"city/people.h"
+	"scenes/earthquake.h"
+	"scenes/fire.h"
+	"scenes/flood.h"
+	"scenes/storm.h"
+	"scenes/accident.h"
+	"ui/hud.h"
+	"ui/night.h"
+	"ui/evening.h"
+	"ui/intro.h"
+	"ui/ending.h"
+
+1781058680 f:\city disaster simulation\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1781058680 f:\city disaster simulation\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1788779722 f:\city disaster simulation\openglportable\core\shapes.h
+
+1788784361 f:\city disaster simulation\openglportable\core\algorithms.h
+
+1788784390 f:\city disaster simulation\openglportable\city\environment.h
+
+1788784588 f:\city disaster simulation\openglportable\city\buildings.h
+
+1788779798 f:\city disaster simulation\openglportable\city\props.h
+
+1788786170 f:\city disaster simulation\openglportable\city\vehicles.h
+
+1788779810 f:\city disaster simulation\openglportable\city\people.h
+
+1788779832 f:\city disaster simulation\openglportable\scenes\earthquake.h
+
+1788779855 f:\city disaster simulation\openglportable\scenes\fire.h
+
+1788784393 f:\city disaster simulation\openglportable\scenes\flood.h
+
+1788779888 f:\city disaster simulation\openglportable\scenes\storm.h
+
+1788786172 f:\city disaster simulation\openglportable\scenes\accident.h
+
+1788784719 f:\city disaster simulation\openglportable\ui\hud.h
+
+1788779922 f:\city disaster simulation\openglportable\ui\night.h
+
+1788784581 f:\city disaster simulation\openglportable\ui\evening.h
+
+1788784740 f:\city disaster simulation\openglportable\ui\intro.h
+
+1788784751 f:\city disaster simulation\openglportable\ui\ending.h
+
